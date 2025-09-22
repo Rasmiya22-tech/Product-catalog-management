@@ -137,7 +137,6 @@ C:\Users\User\Desktop\PRODUCT CATALOG-SPA\PRODUCT CATALOG-SPA\obj\Debug\net8.0\r
 C:\Users\User\Desktop\PRODUCT CATALOG-SPA\PRODUCT CATALOG-SPA\obj\Debug\net8.0\PRODUCT CATALOG-SPA.pdb
 C:\Users\User\Desktop\PRODUCT CATALOG-SPA\PRODUCT CATALOG-SPA\obj\Debug\net8.0\PRODUCT CATALOG-SPA.genruntimeconfig.cache
 C:\Users\User\Desktop\PRODUCT CATALOG-SPA\PRODUCT CATALOG-SPA\obj\Debug\net8.0\ref\PRODUCT CATALOG-SPA.dll
-C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\bin\Debug\net8.0\appsettings.json
 C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\bin\Debug\net8.0\PRODUCT CATALOG-SPA.staticwebassets.endpoints.json
 C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\bin\Debug\net8.0\PRODUCT CATALOG-SPA.exe
@@ -276,3 +275,4 @@ C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\obj\Debug\net8
 C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\obj\Debug\net8.0\PRODUCT CATALOG-SPA.pdb
 C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\obj\Debug\net8.0\PRODUCT CATALOG-SPA.genruntimeconfig.cache
 C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\obj\Debug\net8.0\ref\PRODUCT CATALOG-SPA.dll
+C:\Users\User\Desktop\Product-Catalog\backend\PRODUCT CATALOG-SPA\obj\Debug\net8.0\PRODUCT CATALOG-SPA.sourcelink.json

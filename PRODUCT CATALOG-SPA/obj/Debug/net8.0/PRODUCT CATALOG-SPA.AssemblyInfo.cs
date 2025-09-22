@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRODUCT CATALOG-SPA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce59a4ec501e592479ab15600d41401cd11da390")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRODUCT CATALOG-SPA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRODUCT CATALOG-SPA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
